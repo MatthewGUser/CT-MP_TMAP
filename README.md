@@ -41,19 +41,19 @@ cd CT-MP_TMAP
 * **Task Dashboard** (`task-dashboard.html`): Displays a list of tasks, with links to task details and editing options.
 * **Task Details** (`task-details.html`): View and manage the details of a specific task.
 ## File Descriptions
-`assets/css/styles.css`:
+1. `assets/css/styles.css`:
 * Contains the styling for the entire application, ensuring a consistent and responsive layout.
-`authentication.html`:
+2. `authentication.html`:
 * Provides user login and registration functionality.
-`index.html`:
+3. `index.html`:
 * This serves as the main entry point or landing page of the application.
-`register.html`:
+4. `register.html`:
 * The registration page where new users can create an account.
-`task-creation.html`:
+5. `task-creation.html`:
 * A page dedicated to creating new tasks and adding task details.
-`task-dashboard.html`:
+6. `task-dashboard.html`:
 * The dashboard that displays all the tasks, with links to view, edit, or delete tasks.
-`task-details.html`:
+7. `task-details.html`:
 * A detailed page showing more information about a specific task, allowing further action or updates.
 ## How to Use the Application
 1. Login / Register:
